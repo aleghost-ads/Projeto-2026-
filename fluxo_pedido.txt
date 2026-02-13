@@ -1,0 +1,8 @@
+Fluxo de Pedido do FoodSystem
+
+1. Usuário abre o aplicativo
+2. Sistema exibe o cardápio
+3. Usuário seleciona os itens
+4. Sistema calcula o valor total
+5. Usuário confirma o pedido
+6. Pedido é enviado ao restaurante

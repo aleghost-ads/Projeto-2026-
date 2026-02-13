@@ -1,0 +1,8 @@
+App FoodSystem
+
+Aplicativo voltado para pedidos de comida online.
+
+Funcionalidades iniciais:
+- Visualizar cardápio
+- Escolher pratos
+- Simular pedido

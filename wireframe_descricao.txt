@@ -1,0 +1,11 @@
+Tela Inicial
+- Logo do aplicativo
+- Botão "Ver Cardápio"
+
+Tela Cardápio
+- Lista de pratos
+- Preço de cada item
+
+Tela Pedido
+- Itens selecionados
+- Valor total

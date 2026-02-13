@@ -1,0 +1,6 @@
+Requisitos do Aplicativo de Comida
+
+RF01 - O sistema deve exibir o cardápio.
+RF02 - O usuário deve selecionar itens.
+RF03 - O sistema deve calcular o valor total.
+RF04 - O usuário deve confirmar o pedido.

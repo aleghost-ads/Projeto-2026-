@@ -1,0 +1,5 @@
+Regras de Negócio do FoodSystem
+
+RN01 - O pedido mínimo é de R$ 20,00
+RN02 - O app aceita pagamento via cartão e PIX
+RN03 - Pedidos só podem ser cancelados antes do preparo
